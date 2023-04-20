@@ -1,12 +1,11 @@
-/* Add some styles for the bookmarks */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  min-width: 470px; /* Set max-width of body to 600px */
-  margin: 0 auto; /* Center body horizontally */
+  min-width: 470px;
+  margin: 0 auto; 
 }
 .mainpart{
     margin: 0 20px; 
@@ -80,8 +79,9 @@ transition: 500ms;
   font-size: 24px;
   font-weight: bold;
   color: #546E7A;
-  display: flex; /* Set display to flex */
-  align-items: center; /* Vertically center items */
+  display: flex; 
+  align-items: center; 
+  cursor: pointer;
 }
 .bookmark{
     border: 1px solid black;
@@ -90,10 +90,10 @@ transition: 500ms;
     border: 2px solid black;
 }
 .bookmark-img {
-  margin-right: 10px; /* Add margin to separate image from title */
-  width: 24px; /* Set image width */
-  height: 24px; /* Set image height */
-  border-radius: 50%; /* Make image round */
+  margin-right: 10px; 
+  width: 24px; 
+  height: 24px; 
+  border-radius: 50%;
 }
 .bookmark-url {
   font-size: 16px;
