@@ -1,0 +1,17 @@
+{
+    "name": "My Bookmarks Extension",
+    "version": "1.0",
+    "description": "Save and display bookmarks",
+    "permissions": ["activeTab", "bookmarks", "storage"],
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon":"logo.png"
+    },
+    "icon": {
+        "128": "logo.png"
+    },
+    "permission": ["activeTab"]
+}
+
+  

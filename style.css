@@ -1,0 +1,101 @@
+/* Add some styles for the bookmarks */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  min-width: 470px; /* Set max-width of body to 600px */
+  margin: 0 auto; /* Center body horizontally */
+}
+.mainpart{
+    margin: 0 20px; 
+}
+h1 {
+  margin: 0;
+  padding: 20px;
+  font-size: 36px;
+  text-align: center;
+  background-color: #E57373;
+  color: #fff;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top:8px;
+}
+#save-btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight:700;
+  background-color: #FF8A80;
+  color: black;
+  border: 2px solid black;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+#save-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.deletebtn {
+width: 120px;
+height: 50px;
+cursor: pointer;
+font-size: 20px;
+background: #FF8A80;
+border-radius: 10px;
+border: 2px solid black;
+box-shadow: 0px 0px 0px rgba(0,0,0,0.4);
+transition: 500ms;
+}
+
+.deletebtn:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.4);
+}
+
+.deletebtn:focus {
+    outline: none;
+}
+.bookmark {
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+.bookmark-title {
+  margin-right: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #546E7A;
+  display: flex; /* Set display to flex */
+  align-items: center; /* Vertically center items */
+}
+.bookmark{
+    border: 1px solid black;
+}
+.bookmark:hover{
+    border: 2px solid black;
+}
+.bookmark-img {
+  margin-right: 10px; /* Add margin to separate image from title */
+  width: 24px; /* Set image width */
+  height: 24px; /* Set image height */
+  border-radius: 50%; /* Make image round */
+}
+.bookmark-url {
+  font-size: 16px;
+  color: #546E7A;
+}
