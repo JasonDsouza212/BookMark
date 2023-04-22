@@ -13,16 +13,16 @@ This project uses: <br><br>
 
 
 
-# Prerequisites
+# Prerequisites 🎒
 
 ### Before installation, you need to have installed/knowledge of the following:
 ![Chrome](https://img.shields.io/badge/chrome_Browser-6DA55F?style=for-the-badge&logo=chrome&logoColor=white)
 
 <br>
 
-## This Extension is not yet published on the Chrome Web Store <br><br>
+## 🔌 This Extension is not yet published on the Chrome Web Store <br><br>
 
-# **To install this extension for personal use, follow the steps below:**<br><br>
+# **📥 To install this extension for personal use, follow the steps below:**<br><br>
 
 
 ### How to  Use this Extension from the Repository 
