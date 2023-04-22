@@ -9,7 +9,7 @@
 # 🙌 Welcome to BookMark
 
 ## Purpose:
-To introduce an extension that can help users save all the links they want in one place.
+An extension that can help users save all the links they want in one place.
 
 ## Features:
 
@@ -26,7 +26,7 @@ To introduce an extension that can help users save all the links they want in on
 - That's it! You have now created a new bookmark using BookMark🔖.
 
 <div id="centertext" align="center">
-    <h3>Free-Hit can be used by anyone, from casual internet users to professionals!</h3>
+    <h3>BookMark🔖 can be used by anyone</h3>
 </div>
 
 # 🎥 Project Overview
@@ -36,29 +36,33 @@ To introduce an extension that can help users save all the links they want in on
 
 We welcome you to join us!
 
-- **BookMarK** is an open-source project, and we are excited to hear your thoughts and ideas.
+- **BookMark🔖** is an open-source project, and we are excited to hear your thoughts and ideas.
 - Fork this repository,add your contributions and submit a PR.
 - Found a bug? Accessibility issue? Or do you want to add a new feature? Then go right ahead and create an issue.
 
 # 🛠️ Tech Stack
 
 This project uses: <br><br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PNPM](https://img.shields.io/badge/pnpm-%2320232a.svg?style=for-the-badge&logo=pnpm&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![HTML](https://img.shields.io/badge/🗽_html-%23000000.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB)
+![Css](https://img.shields.io/badge/🎨_css-%23000000.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%FFFF00)
+
 
 
 ## Prerequisites
 
 Before installation, you need to have installed/knowledge of the following:
 <br><br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/chrome_Browser-6DA55F?style=for-the-badge&logo=chrome&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Using/Installation of the extention
+Follow the link to contribute to **BookMark🔖**  - [INSTALLATION.md](./INSTALLATION.md)
+
 
 ## 🤝 Contributing
 
-Follow the link to contribute to Free-Hit - [CONTRIBUTING.md](./CONTRIBUTING.md)
+Follow the link to contribute to **BookMark🔖**  - [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## ✨ Contributors
 

@@ -1,5 +1,5 @@
 {
-  "name": "My Bookmarks Extension",
+  "name": "My Bookmarks",
   "version": "1.0",
   "description": "Save and display bookmarks",
   "manifest_version": 3,
